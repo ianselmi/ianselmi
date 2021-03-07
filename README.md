@@ -1,4 +1,4 @@
-### Hi there, I'm [Ivan][website] 👋 💻
+### Hi there, I'm [Ivan][blog] 👋 💻
 
 ### Languages and Tools:
 
