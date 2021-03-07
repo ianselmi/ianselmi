@@ -17,6 +17,13 @@
 <br />
 <br />
 
+### Where you can found me:
+
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="blog" width="22px" src="https://www.blogger.com/img/logo_blogger_40px_2x.png" />][blog]
+<br />
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
