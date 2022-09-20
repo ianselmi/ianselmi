@@ -19,9 +19,9 @@
 
 ### Where you can found me:
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="blog" width="22px" src="https://www.blogger.com/img/logo_blogger_40px_2x.png" />][blog]
+[<img align="left" alt="Twitter" src="https://img.shields.io/badge/-Ivan%20Anselmi-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/ianselmi/" />][twitter]
+[<img align="left" alt="LinkedIn"  src="https://img.shields.io/badge/-Ivan%20Anselmi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ianselmi/" />][linkedin]
+[<img align="left" alt="blog" src="https://img.shields.io/badge/-Ivan%20Anselmi-orange?style=flat-square&logo=Blogger&logoColor=white&link=https://www.anselmi.dev" />][blog]
 <br />
 
 
