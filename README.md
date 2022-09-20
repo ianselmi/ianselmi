@@ -24,12 +24,11 @@
 [<img align="left" alt="blog" width="22px" src="https://www.blogger.com/img/logo_blogger_40px_2x.png" />][blog]
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Ivan Anselmi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ianselmi&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+### GitHub Stats
 
-</details>
+<img align="left" alt="Ivan Anselmi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ianselmi&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+
 
 [blog]: https://www.anselmi.dev/
 [twitter]: https://twitter.com/ianselmi
