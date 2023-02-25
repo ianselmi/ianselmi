@@ -24,11 +24,11 @@
 [<img align="left" alt="blog" src="https://img.shields.io/badge/-Ivan%20Anselmi-orange?style=flat-square&logo=Blogger&logoColor=white&link=https://www.anselmi.dev" />][blog]
 <br />
 
-
+<!---
 ### GitHub Stats
 
 <img align="left" alt="Ivan Anselmi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ianselmi&show_icons=true&hide_border=true&count_private=true&theme=radical" />
-
+-->
 
 [blog]: https://www.anselmi.dev/
 [twitter]: https://twitter.com/ianselmi
